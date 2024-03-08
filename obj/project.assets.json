@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Astrinn\\Documents\\host\\repository\\binary-translator\\binary-translator\\binary-translator.csproj",
+      "projectUniqueName": "D:\\Users\\Astrinn\\Documents\\host\\repository\\binary-translator\\binary-translator.csproj",
       "projectName": "binary-translator",
-      "projectPath": "D:\\Users\\Astrinn\\Documents\\host\\repository\\binary-translator\\binary-translator\\binary-translator.csproj",
+      "projectPath": "D:\\Users\\Astrinn\\Documents\\host\\repository\\binary-translator\\binary-translator.csproj",
       "packagesPath": "C:\\Users\\Astrinn\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Astrinn\\Documents\\host\\repository\\binary-translator\\binary-translator\\obj\\",
+      "outputPath": "D:\\Users\\Astrinn\\Documents\\host\\repository\\binary-translator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Astrinn\\AppData\\Roaming\\NuGet\\NuGet.Config"
