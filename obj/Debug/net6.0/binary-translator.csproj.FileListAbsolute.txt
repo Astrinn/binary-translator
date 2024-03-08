@@ -1,0 +1,15 @@
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.csproj.AssemblyReference.cache
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.AssemblyInfoInputs.cache
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.AssemblyInfo.cs
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.csproj.CoreCompileInputs.cache
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\bin\Debug\net6.0\binary-translator.exe
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\bin\Debug\net6.0\binary-translator.deps.json
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\bin\Debug\net6.0\binary-translator.runtimeconfig.json
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\bin\Debug\net6.0\binary-translator.dll
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\bin\Debug\net6.0\binary-translator.pdb
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.dll
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\refint\binary-translator.dll
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.pdb
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\binary-translator.genruntimeconfig.cache
+D:\Users\Astrinn\Documents\host\repository\binary-translator\binary-translator\obj\Debug\net6.0\ref\binary-translator.dll
